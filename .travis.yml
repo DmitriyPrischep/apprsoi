@@ -2,6 +2,13 @@ language: node_js
 node_js:
   - "6"
 
+install:
+  - npm install
 
+deploy:
+  provider: heroku
+  api_key: 
+    secure: 9bc5f6a4-e41a-40f5-858e-758eeddfb09d
+  app: apprsoi
 
 
