@@ -1,5 +1,5 @@
 var http = require("http");
-var port = 3000;
+var port = 80;
 
 function onRequest(request, response) {
 	response.writeHead(200, {"Content-Type": "text/plain"});
