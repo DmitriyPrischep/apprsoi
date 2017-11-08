@@ -4,8 +4,7 @@
   "description": "Simple server",
   "main": "index.js",
   "scripts": {
-    "test": "jshint index.js",
-    "start": "node index.js"
+    "test": "jshint index.js"
   },
   "repository": {
     "type": "git",
