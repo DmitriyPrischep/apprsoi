@@ -3,7 +3,7 @@ var port = 3000;
 
 function onRequest(request, response) {
 	response.writeHead(200, {"Content-Type": "text/plain"});
-	response.write("Hello world!\nIt's my first simple server on heroku");
+	response.write("Hello world! \n It's my first simple server on heroku");
 	response.end();
 }
 
