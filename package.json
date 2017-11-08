@@ -1,0 +1,19 @@
+{
+  "name": "apprsoi",
+  "version": "1.0.0",
+  "description": "Simple server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DmitriyPrischep/apprsoi.git"
+  },
+  "author": "Pr Dmitriy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DmitriyPrischep/apprsoi/issues"
+  },
+  "homepage": "https://github.com/DmitriyPrischep/apprsoi#readme"
+}
